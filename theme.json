@@ -1,7 +1,8 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart",
+    "id": "nodebb-theme-electrified",
+    "name": "Electrified",
+    "description": "Electrified",
+    "url": "https://github.com/sebastix/nodebb-theme-quickstart",
+    "screenshots": "",
     "baseTheme": "nodebb-theme-vanilla"
 }

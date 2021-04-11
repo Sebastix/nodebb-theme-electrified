@@ -1,10 +1,22 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "nodebb-theme-electrified",
+  "version": "1.0.0",
+  "description": "NodeBB theme for Electrified platform",
   "main": "theme.less",
   "keywords": [
 
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "author": {
+	"name": "Sebastian Hagens",
+	"email": "info@sebastix.nl",
+	"url": "https://sebastix.nl"
+  },
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/sebastix/nodebb-theme-electrified"
+  },
+  "bugs": {
+	"url": "https://github.com/sebastix/nodebb-theme-electrified/issues"
+  }
 }
