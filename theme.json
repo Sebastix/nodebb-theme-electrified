@@ -2,7 +2,7 @@
     "id": "nodebb-theme-electrified",
     "name": "Electrified",
     "description": "Electrified",
-    "url": "https://github.com/sebastix/nodebb-theme-quickstart",
+    "url": "https://github.com/sebastix/nodebb-theme-electrified",
     "screenshots": "",
     "baseTheme": "nodebb-theme-vanilla"
 }
