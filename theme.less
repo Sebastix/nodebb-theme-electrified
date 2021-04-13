@@ -1,1 +1,55 @@
 @import "../nodebb-theme-vanilla/theme";
+
+/* Custom styling goes here */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=PT+Sans:wght@400;700&display=swap');
+@import "./less/header";
+@import "./less/footer";
+body {
+  font-family: 'PT Sans', sans-serif;
+  padding-top: 0;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+  }
+  #header-menu {
+    border-radius: 0;
+    #nav-dropdown {
+      padding: 0;
+    }
+  }
+  .categories {
+    > div > div {
+      position: relative;
+    }
+    h4.category-title {
+      color: white;
+      line-height: 28px;
+      padding-left: 5px;
+      a {
+        color: #000;
+      }
+    }
+    .h-200 {
+      .category-header{
+        height: 200px;
+      }
+    }
+    .category-header .category-box {
+      height: 60px;
+    }
+  }
+  .category-header-image-contain {
+    background-repeat: no-repeat;
+  }
+  .topic .posts .post-block .post-content {
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'PT Sans', sans-serif;
+    }
+  }
+  .topic .posts .main-post h3,
+  .category .topic-row h3 {
+    font-family: 'PT Sans', sans-serif;
+  }
+  .account .cover {
+    margin-top: 117px;
+  }
+}

@@ -3,6 +3,6 @@
     "name": "Electrified",
     "description": "Electrified",
     "url": "https://github.com/sebastix/nodebb-theme-electrified",
-    "screenshots": "",
+  	"screenshot": "screenshot.png",
     "baseTheme": "nodebb-theme-vanilla"
 }
