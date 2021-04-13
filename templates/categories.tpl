@@ -14,9 +14,6 @@
 		{{{ end }}}
 		<div class="row">
 			{{{each categories}}}
-			{{{ categories.isSection }}}
-			{* @todo show subcategories in this section *}
-			{{{ end }}}
 			<div component="categories/category" class="{categories.class}" data-cid="{categories.cid}" data-numRecentReplies="{categories.numRecentReplies}">
 				<meta itemprop="name" content="{categories.name}">
 				<h4 class="category-title">
