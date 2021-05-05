@@ -3,7 +3,9 @@
 		<footer class="bs content_width row">
 			<div class="col-xs-12">
 				<ul class="partner_list">
+					<li><a href="https://www.ecenter.network/" target="_blank" rel="noopener" title="ecenter.network"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/logo_ecenter_networkkopie.png" alt="ecenter.network" class="partner_image"></a></li>
 					<li><a href="https://electriccarcompany.nl/" target="_blank" rel="noopener" title="Electric Car Company"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/logo-electric-car-company-white.png" alt="Electric Car Company" class="partner_image"></a></li>
+					<li><a href="https://electricmotorbikes.nl/" target="_blank" rel="noopener" title="Electric motorbikes"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/black/logo_electricmotorbikes_white2.png" alt="Electric motorbikes" class="partner_image"></a></li>
 				</ul>
 			</div>
 			<div class="col-md-6 col-xs-12">
