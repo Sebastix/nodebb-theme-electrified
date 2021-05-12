@@ -3,16 +3,17 @@
 		<footer class="bs content_width row">
 			<div class="col-xs-12">
 				<ul class="partner_list">
+					<li><a href="https://www.autoscout24.nl/" target="_blank" rel="noopener" title="Autoscout"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/autoscout.png" alt="Autoscout" class="partner_image"></a></li>
 					<li><a href="https://www.ecenter.network/" target="_blank" rel="noopener" title="ecenter.network"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/logo_ecenter_networkkopie.png" alt="ecenter.network" class="partner_image"></a></li>
 					<li><a href="https://electriccarcompany.nl/" target="_blank" rel="noopener" title="Electric Car Company"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/logo-electric-car-company-white.png" alt="Electric Car Company" class="partner_image"></a></li>
 					<li><a href="https://electricmotorbikes.nl/" target="_blank" rel="noopener" title="Electric motorbikes"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/black/logo_electricmotorbikes_white2.png" alt="Electric motorbikes" class="partner_image"></a></li>
+					<li><a href="https://mgmotor.eu/nl-NL/" target="_blank" rel="noopener" title="MG"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/mg.png" alt="MG" class="partner_image"></a></li>
+					<li><a href="https://www.vanmossel.nl/" target="_blank" rel="noopener" title="Vanmossel"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/logos/partners/vanmossel.png" alt="Vanmossel" class="partner_image"></a></li>
 				</ul>
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<ul class="partner_list">
-					<li><a href="https://www.autotron.nl/" target="_blank" rel="noopener" title="Autotron"><img src="https://cms.402automotive.com/files/www.402automotive.com/files/images/projecten/kever_festijn/logos/autotron.svgz" alt="Autotron" class="partner_image"></a></li>
-					<li><a href="https://www.breda-airport.eu/" target="_blank" rel="noopener" title="Breda International Airport"><img src="https://www.402automotive.com/files/images/projecten/supercars_and_more/logos/breda_airport_logo.svgz" alt="Breda International Airport" class="partner_image"></a></li>
-					<li><a href="https://www.402automotive.com/" target="_blank" rel="noopener" title="402automotive"><img src="https://www.402automotive.com/files/images/logos/partners/logo_402automotive-white.svgz" alt="402automotive" class="partner_image"></a></li>
+					<li><a href="https://www.402online.com/" target="_blank" rel="noopener" title="402automotive"><img src="https://www.402automotive.com/files/images/logos/white/402-logo-white-2021.svgz" alt="402automotive" class="partner_image"></a></li>
 				</ul>
 			</div>
 			<div class="col-md-6 col-xs-12">

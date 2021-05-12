@@ -1,6 +1,6 @@
 <!-- IF !config.loggedIn -->
 <div class="row">
-	<div class="col-sm-offset-2 col-sm-8 col-xs-12">
+	<div class="col-xs-12">
 		<div class="alert alert-info alert-dismissible" role="alert">
 			<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 			Het ELECTRIFIED forum is splinternieuw. ELECTRIFIED is het nieuwe Nederlandse forum voor de EV-rijder, -liefhebber of EV-believer. Op dit forum ontmoet je gelijkgestemden, kun je antwoorden krijgen op jouw vragen, technisch of van andere aard, jouw auto delen en nog veel meer.
