@@ -3,10 +3,12 @@
 	<div class="col-sm-offset-2 col-sm-8 col-xs-12">
 		<div class="alert alert-info alert-dismissible" role="alert">
 			<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			Lorum ipsum...melding forum in ontwikkeling en we zoeken testers voor feedback.
+			Het ELECTRIFIED forum is splinternieuw. ELECTRIFIED is het nieuwe Nederlandse forum voor de EV-rijder, -liefhebber of EV-believer. Op dit forum ontmoet je gelijkgestemden, kun je antwoorden krijgen op jouw vragen, technisch of van andere aard, jouw auto delen en nog veel meer.
+			<br />
+			Maak een profiel aan, stel je zelf voor in de 'leden' categorie en je wordt beloond met een gratis toegangskaart en parkeerkaart voor het eerste ELECTRIFIED evenement op 3 en 4 juli in Autotron Rosmalen.
 			<br />
 			<br />
-			<a href="/register" class="btn btn-primary">Klik hier om een account aan te maken op het forum</a>
+			<a href="/register" class="btn btn-primary">Klik hier om je aan te melden</a>
 		</div>
 	</div>
 </div>
