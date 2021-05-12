@@ -53,20 +53,20 @@
 							<!-- IF categories.bgColor -->background-color: {categories.bgColor};<!-- ENDIF categories.bgColor -->
 						"
 					>
-						<div id="category-{categories.cid}" class="category-slider-{categories.numRecentReplies}">
-							<!-- IF categories.icon -->
-							<div class="category-box"><i class="fa {categories.icon} fa-4x"></i></div>
-							<!-- ENDIF categories.icon -->
+					<div id="category-{categories.cid}" class="category-slider-{categories.numRecentReplies}">
+						<!-- IF categories.icon -->
+						<div class="category-box"><i class="fa {categories.icon} fa-4x"></i></div>
+						<!-- ENDIF categories.icon -->
 
-							{{{each posts}}}
-							<div component="category/posts" class="category-box">
-								<div class="post-preview">
-									{buildAvatar(categories.posts.user, "sm", false, "pull-left")}
-									<p class=""><strong>{categories.posts.user.displayname}</strong>: {categories.posts.content}</p>
-								</div>
+						{{{each posts}}}
+						<div component="category/posts" class="category-box">
+							<div class="post-preview">
+								{buildAvatar(categories.posts.user, "sm", false, "pull-left")}
+								<p class=""><strong>{categories.posts.user.displayname}</strong>: {categories.posts.content}</p>
 							</div>
-							{{{end}}}
 						</div>
+						{{{end}}}
+					</div>
 					</div>
 				</a>
 			</div>
