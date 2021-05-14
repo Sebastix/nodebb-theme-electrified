@@ -8,7 +8,7 @@
 @yellow-electrified: #ffde17;
 body {
   font-family: 'PT Sans', sans-serif;
-  padding-top: 0;
+  padding: 0;
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Orbitron', sans-serif;
   }
@@ -17,6 +17,9 @@ body {
     border-radius: 0;
     #nav-dropdown {
       padding: 0;
+    }
+    .navbar-header > span {
+      display: none;
     }
   }
   .topic .posts .post-block .post-content {
@@ -30,5 +33,17 @@ body {
   }
   .account .cover {
     margin-top: 100px;
+  }
+}
+@media (max-width:768px ) {
+  body{
+    #header-menu {
+      .navbar-header > span {
+        display: inline-block;
+        color: #fff;
+        float: right;
+        margin: 15px 15px 15px 0;
+      }
+    }
   }
 }

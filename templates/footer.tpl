@@ -18,10 +18,10 @@
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<ul class="footer_menu">
-					<li><a href="https://dev.electrified.online/contact">Contact</a></li>
-					<li><a href="https://dev.electrified.online/disclaimer">Disclaimer</a></li>
-					<li><a href="https://dev.electrified.online/privacy">Privacy</a></li>
-					<li><a href="https://dev.electrified.online/voorwaarden">Voorwaarden</a></li>
+					<li><a href="https://www.electrified.online/contact">Contact</a></li>
+					<li><a href="https://www.electrified.online/disclaimer">Disclaimer</a></li>
+					<li><a href="https://www.electrified.online/privacy">Privacy</a></li>
+					<li><a href="https://www.electrified.online/voorwaarden">Voorwaarden</a></li>
 				</ul>
 				<span class="footer_copyright">COPYRIGHT 2021 402 Automotive</span>
 			</div>

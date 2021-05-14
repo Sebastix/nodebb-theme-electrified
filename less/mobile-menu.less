@@ -1,5 +1,11 @@
+.mobile {
+  display:none;
+}
+#mobile_menu_button img {
+  height: 40px;
+  width: auto;
+}
 #mobile_menu {
-  display: none;
   height:40px;
   margin-left:10px;
   text-align: left;
@@ -7,7 +13,65 @@
 #mobile_menu_button {
   cursor: pointer;
 }
-#mobile_menu_button img {
-  height: 40px;
-  width: auto;
+.navbar-collapse {
+  ul {
+    margin: 0;
+  }
+  ul#chat-list {
+    background: #fff;
+    .members {
+      float: left;
+      margin-right: 10px;
+    }
+  }
+}
+
+@media (max-width:900px ) {
+  #main_menu {
+    display:none;
+    max-height: calc(100vh - 110px);
+    overflow-y: scroll;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 40px;
+    z-index: 100;
+    padding: 0px;
+    right: 0px;
+    background-color:rgba(0,0,0,0.9);
+  }
+  #main_menu li {
+    width: 100%;
+  }
+  #menu_top nav li a {
+    border-bottom: 1px rgba(200,200,200,.2) solid;
+    float: none !important;
+    width: 100% !important;
+    display: block !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  #menu_top {
+    padding-left:0px !important;
+    background-color:rgba(0,0,0,0.9) !important;
+  }
+  .mobile {
+    display: block;
+  }
+
+  .nomobile {
+    display: none !important;
+  }
+}
+@media (max-width:1200px) {
+  #menu_top nav li a {
+    padding: 15px 15px;
+  }
+}
+@media (max-width:1090px) {
+  #menu_top nav li a {
+    padding: 15px 10px;
+  }
 }
