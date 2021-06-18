@@ -5,7 +5,7 @@
 			<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 			Het ELECTRIFIED forum is splinternieuw. ELECTRIFIED is het nieuwe Nederlandse forum voor de EV-rijder, -liefhebber of EV-believer. Op dit forum ontmoet je gelijkgestemden, kun je antwoorden krijgen op jouw vragen, technisch of van andere aard, jouw auto delen en nog veel meer.
 			<br />
-			Maak een profiel aan, stel je zelf voor in de 'leden' categorie en je wordt beloond met een gratis toegangskaart en parkeerkaart voor het eerste ELECTRIFIED evenement op 3 en 4 juli in Autotron Rosmalen.
+			Maak een profiel aan, stel je zelf voor in de 'leden' categorie en je wordt beloond met een gratis toegangskaart en parkeerkaart voor het eerste ELECTRIFIED evenement op 22 - 24 oktober in Autotron Rosmalen.
 			<br />
 			<br />
 			<a href="/register" class="btn btn-primary">Klik hier om je aan te melden</a>
